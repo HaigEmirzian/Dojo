@@ -8,7 +8,7 @@ Expectations:
 Steps to Success:
   1. Created a CPU in Logism Evolution
   2. Coded an assembler in Python 
-          i. Takes ARM assembly code and converts it to an image file that my CPU could read
+          a. Takes ARM assembly code and converts it to an image file that my CPU could read
   3. Coded a simple ARM assembly file that would be passed through my assembler
   4. Image file is outputed and is able to be loaded directly into my CPU
   5. Boom! A fully functioning CPU
